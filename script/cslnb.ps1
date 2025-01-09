@@ -1,3 +1,5 @@
+# Changes the system language, locale and timezone to Norway.
+
 $Language = "nb-NO"
 $GeoId = "0xb1"
 #$TimeZone = "W. Europe Standard Time"
